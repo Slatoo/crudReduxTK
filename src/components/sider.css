@@ -1,0 +1,24 @@
+.siderUsers{
+    background-color: rgb(68, 206, 248);
+    height: 100% !important;
+}
+
+.forms {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.userInput{
+    border-radius: 15px;
+}
+.buttonSider{
+    background-color: rgb(31, 62, 121);
+    border-color:rgb(111, 117, 113) ;
+    border-radius: 15px;
+    
+}
+
+.ant-btn-primary:hover{
+    background-color: rgb(38, 48, 44);
+    border-color:rgb(38, 48, 44) ;
+}

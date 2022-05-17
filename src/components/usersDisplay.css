@@ -1,0 +1,8 @@
+.displayUsers{
+    background-color: darksalmon;
+    width: 100%;
+}
+.formContent{
+    display: flex;
+    justify-content: space-between;
+}
